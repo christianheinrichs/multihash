@@ -11,7 +11,7 @@ while true
 
         if [ $fileloc != "!exit" ]
             then
-                printf "MD5 sum: "; md5sum $fileloc;
+                printf "\nMD5 sum: "; md5sum $fileloc;
                 printf "SHA1 sum: "; sha1sum $fileloc;
                 printf "SHA256 sum: "; sha256sum $fileloc;
                 printf "SHA384 sum: "; sha384sum $fileloc;
