@@ -17,7 +17,7 @@ while true
                 printf "SHA384 sum: "; sha384sum $fileloc;
                 printf "SHA512 sum: "; sha512sum $fileloc; printf "\n";
 
-                printf "Done.\n"
+                printf "Done.\n\n"
         else
             exit 0
         fi
