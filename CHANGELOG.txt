@@ -1,0 +1,19 @@
+Version 4.2.2014
+- Release
+
+Version 14.7.2019-r1
+- Add SHA-384 algorithm
+- Change #exit syntax to !exit
+- Rename $mydec variable
+
+Version 14.7.2019-r2
+- Add another newline when script is done
+
+Version 14.7.2019-r3
+- Add another newline for better readability
+
+Version 14.1.2022
+- Add changelog
+- Add license
+- Add README
+- Update modification date

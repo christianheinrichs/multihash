@@ -1,9 +1,9 @@
 #!/bin/bash
 
-# Interactive multihash script
+# Interactive multihash script for Linux
 
 # multihash.sh written by Christian Heinrichs <christian.heinrichs@mykolab.ch>
-# Last update 07/14/2019
+# Last update 14 January 2022
 
 while true
     do
