@@ -17,3 +17,6 @@ Version 14.1.2022
 - Add license
 - Add README
 - Update modification date
+
+Version 12.5.2022
+- Add licensing notice

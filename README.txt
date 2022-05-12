@@ -9,3 +9,8 @@ Usage
 
 Type in the file location and the script should give you the correct
 output. Should you be done, enter !exit and the script stops.
+
+Licensing
+
+This project is licensed under the GNU GPL 3.0 license. To read it, please
+refer to the LICENSE document.
